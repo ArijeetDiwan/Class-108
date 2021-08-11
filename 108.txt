@@ -1,0 +1,14 @@
+we will be looking at a pattern which  hold universal true for almost all kind of data 
+roll the dice there are two dice 
+roll the dice again and again 
+record the sums we get on the file 
+4+4=8,
+3+5=8,
+4+3=7,
+etc.......
+we do it for hundred times and we will plot the grap for the sum there will be a pattern 
+.............................................................................................................
+write a python program which randomlly generates two numbers between 1 to 6 
+for two different and adds them up 
+
+random is a module in a python which generates randoms numbers 
